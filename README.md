@@ -7,9 +7,9 @@ Registers known faces by name from a `/faces` folder. On each run, opens the web
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/FaceAttend
+git clone https://github.com/MrHassan2027/FaceAttend
 cd FaceAttend
-pip install -r requirements.txt
+pip install -e .
 
 # Register faces — add images to faces/ folder:
 # faces/Hassan.jpg, faces/Ahmed.jpg, etc.
